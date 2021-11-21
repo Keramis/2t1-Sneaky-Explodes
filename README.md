@@ -4,18 +4,43 @@ The features are constantly updating, and if you want a feature added, please op
 
 Features of said script:
 
--Set the explosion visible or invisible.
+- Set the explosion visible or invisible.
 
--Sneaky kills / ped explodes (no blame)
+- Explode all NPCs with no blame
 
--Sneaky loop kills
+- Explode all in lobby with no blame
 
--Sneaky suicide kills (blame the person for their death)
+- Check for godmode in the lobby (soon to be updated)
 
--Sneaky sucidie loop kills
+- Kill a person with no blame + Includes water hyrant
 
--Sneaky blame kills (kill all players/peds with blame)
+- Kill a person with no blame, Looped + Includes water hydrant
+
+- Make a person commit suicide
+
+- Make a person commit suicide, Looped
+
+- Make a person explode the whole lobby + Includes water hydrant
+
+- Make a person explode the whole lobby, Looped + Includes water hydrant
+
+- Make a person explode all NPCs
+
+- Make a person explode all NPCs, Looped
+
+- Make a person explode people who are inside of vehicles (like insurance fraud)
+
+- Makke a person explode people who are inside of vehicles, Looped
+
+- Check if a person is in godmode
+
+- Check a person's health
+
+- Set a person's health to 0. Why would you do this?
 
 
 TAKE NOTE! THIS WILL BE UPDATED A LOT.
 Also, this is half- a proof of concept. Don't take this _too_ seriously.
+
+
+### THANK YOU WOLF.sG AND RIMURU FOR MEGA HELP
