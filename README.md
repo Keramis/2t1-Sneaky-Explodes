@@ -30,7 +30,13 @@ Features of said script:
 
 - Make a person explode people who are inside of vehicles (like insurance fraud)
 
-- Makke a person explode people who are inside of vehicles, Looped
+- Make a person explode people who are inside of vehicles, Looped
+
+- Make a person explode another player
+
+- Make a person another player, Looped
+
+- The two above check for interior and godmode.
 
 - Check if a person is in godmode
 
