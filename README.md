@@ -44,6 +44,10 @@ Features of said script:
 
 - Set a person's health to 0. Why would you do this?
 
+- Check the lobby for modders
+- - Godmode lobby check
+- - Modded health lobby check
+
 
 TAKE NOTE! THIS WILL BE UPDATED A LOT.
 Also, this is half- a proof of concept. Don't take this _too_ seriously.
