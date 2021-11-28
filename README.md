@@ -10,8 +10,6 @@ Features of said script:
 
 - Explode all in lobby with no blame
 
-- Check for godmode in the lobby (soon to be updated)
-
 - Kill a person with no blame + Includes water hyrant
 
 - Kill a person with no blame, Looped + Includes water hydrant
